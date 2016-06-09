@@ -1,3 +1,4 @@
+
 Get a calendar view (REST)
 
 Minimum required scope: one of the following:
